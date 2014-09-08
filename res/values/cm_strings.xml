@@ -41,6 +41,8 @@
     <string name="pref_camera_picturesize_entry_6mp">6M pixels</string>
     <!-- Settings screen, dialog choice for 4.5 megapixels picture size [CHAR LIMIT=15] -->
     <string name="pref_camera_picturesize_entry_4_5mp">4.5M pixels</string>
+    <!-- Settings screen, dialog choice for 4 megapixels picture size [CHAR LIMIT=20] -->
+    <string name="pref_camera_picturesize_entry_4mp">4M pixels</string>
     <!-- Settings screen, dialog choice for 3.7 megapixels picture size [CHAR LIMIT=15] -->
     <string name="pref_camera_picturesize_entry_3_7mp">3.7M pixels</string>
     <!-- Settings screen, dialog choice for 2.5 megapixels picture size [CHAR LIMIT=15] -->
@@ -176,8 +178,6 @@
     <string name="camera_menu_enhance_label">ENHANCE</string>
     <string name="camera_menu_slow_shutter_label">SLOW SHUTTER</string>
     <string name="camera_menu_beauty_mode_label">BEAUTIFY</string>
-    <string name="camera_menu_colorize_label">COLORIZE</string>
-    <string name="camera_menu_effects_label">EFFECTS</string>
     <string name="camera_menu_asd_label">SMART SCENE</string>
 
     <!-- More Settings screen, power button title -->
